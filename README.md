@@ -11,6 +11,7 @@
 |  class5  |   81.71  |   81.71  |   79.67  |   nan   |   76.42   | 77.24  | 82.11   |  78.86  |  80.89  |  61.38  |  71.54  |  57.32  |  65.04  |  56.91  |
   
    
+     
 **pretrained**
 
 |  model   |      Alexnet       ||       DenseNet    ||    EfficientNet   ||       MnasNet    ||      ResNet      ||       VGGNet     ||      Vit         ||
