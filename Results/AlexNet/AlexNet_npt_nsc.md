@@ -1,10 +1,10 @@
-AlexNet
-do not used pretraining and scheduler 
-epoch = 50
-learning rate = 0.002
-
-
-
+AlexNet 
+do not used pretraining and scheduler  
+epoch = 50  
+learning rate = 0.002  
+  
+  
+  
 |Class|accuracy|
 |------|---|
 |Class 1|92.84|
