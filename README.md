@@ -1,4 +1,6 @@
 # EyesDiseases
+n = Did not used scheduler  
+y = Used scheduler  
 non pretrained
 |  model   |      Alexnet       ||       DenseNet    ||    EfficientNet   ||       MnasNet    ||      ResNet      ||       VGGNet     ||      Vit         ||
 | :------: | :------: | :-------: | :-------: | :-----: | :--------: | :-----: | :-----: | :------: | :-----: | :------: | :-----: | :------: | :-----: | :------: |
