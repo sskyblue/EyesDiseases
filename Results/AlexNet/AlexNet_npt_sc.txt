@@ -1,7 +1,13 @@
-AlexNet npt sc
-
-Class 1 : 89.20 - 29
-Class 2 : 82.21 - 7
-Class 3 : 73.95 - 19
-Class 4 : 88.56 - 7
-Class 5 : 81.71
+AlexNet  
+Do not used pretraining  
+Used scheduler    
+epoch = 50, learning rate = 0.002    
+  
+   
+|*Class*|*accuracy*|
+|------|---|
+|*Class 1*|89.20|
+|*Class 2*|82.21|
+|*Class 3*|73.95|
+|*Class 4*|88.56|
+|*Class 5*|81.71|
