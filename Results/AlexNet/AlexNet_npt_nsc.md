@@ -1,4 +1,4 @@
-AlexNet 
+AlexNet  
 do not used pretraining and scheduler  
 epoch = 50  
 learning rate = 0.002  
