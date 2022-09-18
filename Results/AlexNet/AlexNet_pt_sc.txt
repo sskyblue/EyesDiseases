@@ -1,9 +1,0 @@
-AlexNet pt sc
-
-lr = 0.002   epoch = 50
-
-class 1 : 83.04 - 18
-class 2 : 86.53 - 2
-class 3 : 75.10 - 8
-class 4 : 85.29 - 25
-class 5 : 81.30 - 20
