@@ -1,0 +1,10 @@
+AlexNet
+pretrained X
+epoch = 50
+learning rate = 0.002
+
+1 : 92.84 
+2 : 84.12
+3 : 75.10
+4 : 88.24
+5 : 81.71
